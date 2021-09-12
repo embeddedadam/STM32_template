@@ -1,0 +1,3 @@
+/home/adam/Projekty/ARM_vscode/build/CMakeFiles/rebuild_cache.dir
+/home/adam/Projekty/ARM_vscode/build/CMakeFiles/edit_cache.dir
+/home/adam/Projekty/ARM_vscode/build/CMakeFiles/STM32F4_template.elf.dir

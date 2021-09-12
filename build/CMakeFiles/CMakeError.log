@@ -1,0 +1,211 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/adam/Projekty/ARM_vscode/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):make.exe cmTC_40ec5/fast && No such file or directory
+Generator: execution of make failed. Make command was: make.exe cmTC_40ec5/fast && 
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/adam/Projekty/ARM_vscode/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):make.exe cmTC_3fbff/fast && No such file or directory
+Generator: execution of make failed. Make command was: make.exe cmTC_3fbff/fast && 
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/adam/Projekty/ARM_vscode/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):make.exe cmTC_02fbf/fast && No such file or directory
+Generator: execution of make failed. Make command was: make.exe cmTC_02fbf/fast && 
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/adam/Projekty/ARM_vscode/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):make.exe cmTC_7ae16/fast && No such file or directory
+Generator: execution of make failed. Make command was: make.exe cmTC_7ae16/fast && 
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/adam/Projekty/ARM_vscode/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):make.exe cmTC_2ecb3/fast && No such file or directory
+Generator: execution of make failed. Make command was: make.exe cmTC_2ecb3/fast && 
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/adam/Projekty/ARM_vscode/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):make.exe cmTC_a3fea/fast && No such file or directory
+Generator: execution of make failed. Make command was: make.exe cmTC_a3fea/fast && 
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/adam/Projekty/ARM_vscode/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):make.exe cmTC_5fc1a/fast && No such file or directory
+Generator: execution of make failed. Make command was: make.exe cmTC_5fc1a/fast && 
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/adam/Projekty/ARM_vscode/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):make.exe cmTC_4a616/fast && No such file or directory
+Generator: execution of make failed. Make command was: make.exe cmTC_4a616/fast && 
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/adam/Projekty/ARM_vscode/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):make.exe cmTC_d0037/fast && No such file or directory
+Generator: execution of make failed. Make command was: make.exe cmTC_d0037/fast && 
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/adam/Projekty/ARM_vscode/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):make.exe cmTC_0bbce/fast && No such file or directory
+Generator: execution of make failed. Make command was: make.exe cmTC_0bbce/fast && 
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/adam/Projekty/ARM_vscode/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):make.exe cmTC_e7b5c/fast && No such file or directory
+Generator: execution of make failed. Make command was: make.exe cmTC_e7b5c/fast && 
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/adam/Projekty/ARM_vscode/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):make.exe cmTC_6c43a/fast && No such file or directory
+Generator: execution of make failed. Make command was: make.exe cmTC_6c43a/fast && 
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/adam/Projekty/ARM_vscode/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):make.exe cmTC_96bbf/fast && No such file or directory
+Generator: execution of make failed. Make command was: make.exe cmTC_96bbf/fast && 
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/arm-none-eabi-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/arm-none-eabi-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/arm-none-eabi-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/arm-none-eabi-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/arm-none-eabi-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/arm-none-eabi-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/arm-none-eabi-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/arm-none-eabi-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/arm-none-eabi-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/arm-none-eabi-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/bin/ld: /usr/lib/gcc/arm-none-eabi/9.2.1/../../../arm-none-eabi/lib/libc.a(lib_a-exit.o): in function `exit':
+/build/newlib-CVVEyx/newlib-3.3.0/build/arm-none-eabi/newlib/libc/stdlib/../../../../../newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
